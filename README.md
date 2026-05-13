@@ -31,3 +31,4 @@ SOOVITUS TOOMASELE : Andmete korrastamine: Toomas peab esimesel võimalusel loom
 
 PUUDUVAD ANDMED : Meil puudus stores andmetega tabel.
 
+![Kirjeldus](pildi_nimi.jpg)
